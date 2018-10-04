@@ -1,3 +1,5 @@
+//manybook.c__包含多本书的图书目录
+
 #include <stdio.h>
 
 #define MAXTITL 40	//书名最大长度 
